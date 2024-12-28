@@ -3,4 +3,4 @@ node_modules/
 build/css/app.css
 package.jon
 package-lock.json
-gulfile.js
+gulpfile.js
